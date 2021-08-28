@@ -2,6 +2,8 @@
 
 [Double Paradiddle](https://www.mikeslessons.com/index.php/gscribe?Mode=view&TimeSig=4/4&Div=12&Title=Double%20Paradiddle&Tempo=80&Measures=1&H=|------------|&S=|OOOOOOOOOOOO|&K=|------------|&Stickings=|RLRLRRLRLRLL|)
 
+<iframe width="100%" height="240" src="https://www.mikeslessons.com/index.php/groove/GrooveEmbed.html?Mode=view&TimeSig=4/4&Div=16&Title=Pattern%20A&Tempo=80&Measures=1&H=|x-x-x-x-x-x-x-x-|&S=|----O-------O---|&K=|o---o---o---o---|" frameborder="0" ></iframe>	
+
 Benny Greb's Rhythmic Alphabet\
 [Pattern A](https://www.mikeslessons.com/index.php/gscribe?Mode=view&TimeSig=4/4&Div=16&Title=Pattern%20A&Tempo=80&Measures=1&H=|x-x-x-x-x-x-x-x-|&S=|----O-------O---|&K=|o---o---o---o---|)\
 [Pattern B](https://www.mikeslessons.com/index.php/gscribe?Mode=view&TimeSig=4/4&Div=16&Title=Pattern%20B&Tempo=80&Measures=1&H=|x-x-x-x-x-x-x-x-|&S=|----O-------O---|&K=|-o---o---o---o--|)\
