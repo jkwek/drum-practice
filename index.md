@@ -1,7 +1,9 @@
-## Here is my first site page
+## 8/26/2021 - Lesson
 
-Lets do this!
+[Double Paradiddle](https://gscribe.com/share/8EqGqXnPeESAfr6g6)
 
+Benny Greb's Rhythmic Alphabet
 [Pattern A](https://gscribe.com/share/MQ8oxGkvirzHFocv9)
-
-<iframe width="100%" height="240" src="https://www.mikeslessons.com/index.php/groove/GrooveEmbed.html?TimeSig=4/4&Div=16&Title=Pattern%20A&Tempo=80&Measures=1&H=|x-x-x-x-x-x-x-x-|&S=|----O-------O---|&K=|o---o---o---o---|" frameborder="0" ></iframe>	
+[Pattern B](https://gscribe.com/share/BodbD52KjgLGTZoA6)
+[Pattern C](https://gscribe.com/share/1xuynAF5wLKC7ikJ8)
+[Pattern D](https://gscribe.com/share/rTKEVxoJGfYC9myR7)
