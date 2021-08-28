@@ -1,6 +1,6 @@
 ## 8/26/2021 - Lesson
 
-[Double Paradiddle](https://gscribe.com/share/8EqGqXnPeESAfr6g6)
+[Double Paradiddle](https://gscribe.com/share/87KKWzwcs9bHaDaH8)
 
 Benny Greb's Rhythmic Alphabet\
 [Pattern A](https://gscribe.com/share/wjtKgDs9xbtjBBYu8)\
