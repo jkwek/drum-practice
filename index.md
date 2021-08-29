@@ -10,6 +10,6 @@ Benny Greb's Rhythmic Alphabet\
 
 ## Older
 
-[16th Note Triplet Exercise](https://gscribe.com/share/pjjE3ds3oGon7tPYA)
+[16th Note Triplet Exercise](https://gscribe.com/share/423JrboEhUWBLneJ9)
 
 [Starting from Scratch Gscribe (all)](https://www.mikeslessons.com/course/summary/starting-from-scratch)
