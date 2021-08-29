@@ -2,7 +2,7 @@
 
 [Double Paradiddle](https://gscribe.com/share/JWREPLz6gkRwTjt79){:target="\_blank"}
 
-Benny Greb's Rhythmic Alphabet
+Benny Greb's Rhythmic Alphabet\
 [Pattern A](https://gscribe.com/share/ZCNzMZyW9eiCzBa46){:target="\_blank"}\
 [Pattern B](https://gscribe.com/share/aDViJ4ddpv1NULSj7){:target="\_blank"}\
 [Pattern C](https://gscribe.com/share/ZUoS3MUTqnZDmSG38){:target="\_blank"}\
