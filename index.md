@@ -1,18 +1,15 @@
 ## 8/26/2021 - Lesson
 
-<iframe width="100%" height="240" src="https://www.mikeslessons.com/index.php/groove/GrooveEmbed.html?Mode=view&TimeSig=4/4&Div=12&Title=Double%20Paradiddle&Tempo=80&Measures=1&H=|------------|&S=|OOOOOOOOOOOO|&K=|------------|&Stickings=|RLRLRRLRLRLL|" frameborder="0" ></iframe>	
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Onv9nhPIBp0" frameborder="0" allowfullscreen> </iframe>
-	
+<iframe width="100%" height="240" src="https://montulli.github.io/GrooveScribe/GrooveEmbed.html?Mode=view&TimeSig=4/4&Div=12&Title=Double%20Paradiddle&Tempo=80&Measures=1&H=|------------|&S=|OOOOOOOOOOOO|&K=|------------|&Stickings=|RLRLRRLRLRLL|" frameborder="0" ></iframe>	
 
 Benny Greb's Rhythmic Alphabet\
-[Pattern A](https://www.mikeslessons.com/index.php/gscribe?Mode=view&TimeSig=4/4&Div=16&Title=Pattern%20A&Tempo=80&Measures=1&H=|x-x-x-x-x-x-x-x-|&S=|----O-------O---|&K=|o---o---o---o---|)\
-[Pattern B](https://www.mikeslessons.com/index.php/gscribe?Mode=view&TimeSig=4/4&Div=16&Title=Pattern%20B&Tempo=80&Measures=1&H=|x-x-x-x-x-x-x-x-|&S=|----O-------O---|&K=|-o---o---o---o--|)\
-[Pattern C](https://www.mikeslessons.com/index.php/gscribe?Mode=view&TimeSig=4/4&Div=16&Title=Pattern%20C&Tempo=80&Measures=1&H=|x-x-x-x-x-x-x-x-|&S=|----O-------O---|&K=|--o---o---o---o-|)\
-[Pattern D](https://www.mikeslessons.com/index.php/gscribe?Mode=view&TimeSig=4/4&Div=16&Title=Pattern%20D&Tempo=80&Measures=1&H=|x-x-x-x-x-x-x-x-|&S=|----O-------O---|&K=|---o---o---o---o|)
+<iframe width="100%" height="240" src="https://montulli.github.io/GrooveScribe/GrooveEmbed.html?Mode=view&TimeSig=4/4&Div=16&Title=Pattern%20A&Tempo=80&Measures=1&H=|x-x-x-x-x-x-x-x-|&S=|----O-------O---|&K=|o---o---o---o---|" frameborder="0" ></iframe>
+<iframe width="100%" height="240" src="https://montulli.github.io/GrooveScribe/GrooveEmbed.html?Mode=view&TimeSig=4/4&Div=16&Title=Pattern%20B&Tempo=80&Measures=1&H=|x-x-x-x-x-x-x-x-|&S=|----O-------O---|&K=|-o---o---o---o--|" frameborder="0" ></iframe>
+<iframe width="100%" height="240" src="https://montulli.github.io/GrooveScribe/GrooveEmbed.html?Mode=view&TimeSig=4/4&Div=16&Title=Pattern%20C&Tempo=80&Measures=1&H=|x-x-x-x-x-x-x-x-|&S=|----O-------O---|&K=|--o---o---o---o-|" frameborder="0" ></iframe>
+<iframe width="100%" height="240" src="https://montulli.github.io/GrooveScribe/GrooveEmbed.html?Mode=view&TimeSig=4/4&Div=16&Title=Pattern%20D&Tempo=80&Measures=1&H=|x-x-x-x-x-x-x-x-|&S=|----O-------O---|&K=|---o---o---o---o|" frameborder="0" ></iframe>
 
 ## Older
 
-[16th Note Triplet Exercise](https://www.mikeslessons.com/gscribe?Mode=view&TimeSig=4/4&Div=24&Title=16th%20note%20triplet%20exercise%20&Tempo=80&Measures=2&H=|------------------------|------------------------|&S=|O-----O-----O-----O-----|OooOooOooOooOooOooOooOoo|&K=|------------------------|------------------------|)
+[16th Note Triplet Exercise](https://gscribe.com/share/pjjE3ds3oGon7tPYA)
 
 [Starting from Scratch Gscribe (all)](https://www.mikeslessons.com/course/summary/starting-from-scratch)
