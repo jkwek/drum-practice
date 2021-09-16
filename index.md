@@ -1,6 +1,8 @@
 [//]: # (If want to open in new tab, use {:target="\_blank"} after the URL)
 
 ## 9/9/2021 - Lesson
+
+Benny Greb's Rhythmic Alphabet\
 [Pattern E](https://gscribe.com/share/FQVSC9asT1P5gwBq7){:target="\_blank"}\
 [Pattern F](https://gscribe.com/share/51zcbUCe7unCwXYT9){:target="\_blank"}
 
