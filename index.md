@@ -1,5 +1,9 @@
 [//]: # (If want to open in new tab, use {:target="\_blank"} after the URL)
 
+## 9/9/2021 - Lesson
+[Pattern E](https://gscribe.com/share/FQVSC9asT1P5gwBq7){:target="\_blank"}\
+[Pattern F](https://gscribe.com/share/51zcbUCe7unCwXYT9){:target="\_blank"}
+
 ## 8/26/2021 - Lesson
 
 [Double Paradiddle](https://gscribe.com/share/JWREPLz6gkRwTjt79){:target="\_blank"}
