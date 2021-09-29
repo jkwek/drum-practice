@@ -2,7 +2,7 @@
 ## 9/23/2021 - Lesson
 
 Benny Greb's Rhythmic Alphabet\
-[Pattern G](https://gscribe.com/share/mwthDjYJQE8tAHoG8){:target="\_blank"}\
+[Pattern G](https://gscribe.com/share/mwthDjYJQE8tAHoG8){:target="\_blank"}
 
 ## 9/9/2021 - Lesson
 
