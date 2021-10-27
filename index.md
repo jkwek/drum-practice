@@ -2,8 +2,8 @@
 ## 10/26/2021 - Lesson
 
 Benny Greb's Rhythmic Alphabet\
-[Pattern M](https://gscribe.com/share/t3L5cxCZGrgdpnNt8){:target="\_blank"}\
-[Pattern N](https://gscribe.com/share/2L1MoHBC82qRaxpx9){:target="\_blank"}
+[Pattern M](https://gscribe.com/share/yFMMvP2eTPWjujBs9){:target="\_blank"}\
+[Pattern N](https://gscribe.com/share/kP6Q96tzDUiJG5qc7){:target="\_blank"}
 
 ## 9/23/2021 - Lesson
 
