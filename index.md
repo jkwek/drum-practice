@@ -1,4 +1,8 @@
 [//]: # (If want to open in new tab, use {:target="\_blank"} after the URL)
+## 12/16/2021 - Lesson
+
+[Medicine at Midnight - Groove 1](https://gscribe.com/share/dyLhwuRyK1xZN1Xm7){:target="\_blank"}
+
 ## 11/4/2021 - Lesson
 
 [5 Stroke Roll in Context](https://gscribe.com/share/hdpwopX2j5JwFtMA7){:target="\_blank"}
