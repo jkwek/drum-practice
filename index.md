@@ -1,4 +1,8 @@
 [//]: # (If want to open in new tab, use {:target="\_blank"} after the URL)
+## 2/24/2022
+
+[Halftime Shuffle](https://gscribe.com/share/BS3ix7pFMioJb9LQ8){:target="\_blank"}
+
 ## 12/16/2021 - Lesson
 
 [Medicine at Midnight - Groove 1](https://gscribe.com/share/dyLhwuRyK1xZN1Xm7){:target="\_blank"}
